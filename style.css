@@ -40,7 +40,7 @@ body{
     color: blue;
 }
 .main{
-    background-image: url(./img/images.jfif);
+    background-image: url(.//img/images.jfif);
     background-repeat: no-repeat;
     height: 450px;
     background-size: 100%;
@@ -161,5 +161,6 @@ width: 160px;
 .selections{
     display: flex;
 }
+
 
 
